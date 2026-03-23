@@ -1,0 +1,24 @@
+{
+  "name": "cicdgpsc",
+  "version": "1.0.0",
+  "description": "'# CI/CD GPSC'",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacoitt/cicdgpsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dacoitt/cicdgpsc/issues"
+  },
+  "homepage": "https://github.com/dacoitt/cicdgpsc#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
